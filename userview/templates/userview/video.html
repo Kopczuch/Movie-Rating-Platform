@@ -1,0 +1,15 @@
+{% extends 'userview/header.html' %}
+{% load embed_video_tags %}
+{% block content %}
+    <div class="container text-center justify-content-center">
+      <h1>{{ video.title }}</h1>
+      <p>{{ video.description }}</p>
+      {% video video.video as this_video %}
+      {% video this_video "medium" %}
+      {% endvideo %}
+      <br>
+      <a href="/video_embed" class="btn btn-success">Back to the list</a>
+    </div>
+    
+
+{% endblock %}
