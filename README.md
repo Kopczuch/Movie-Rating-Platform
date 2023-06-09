@@ -20,14 +20,13 @@ Platform for viewing, rating, commenting and searching movies created using Djan
 ![image](https://github.com/Kopczuch/Movie-Rating-Platform/assets/55816369/ce7f7d1e-48b1-4968-b5ca-f7469a28919e)
 
 ## My ratings page:
-![image](https://github.com/Kopczuch/Movie-Rating-Platform/assets/55816369/c9e93275-90b5-4517-85ea-1a12f67bc80c)
-
+![image](https://github.com/Kopczuch/Movie-Rating-Platform/assets/55816369/496207d8-0b8b-4388-95f1-d4cb2f6151db)
 
 ## Search page consits of:
 - Three search fields for inputing genres, title or minimal rating
 - List of all movies/search results depending on user input. For the clarity of the page paginator has been used (six movies per one page)
 
-![image](https://github.com/Kopczuch/Movie-Rating-Platform/assets/55816369/1a950a36-c5f5-4dbc-8969-7415ca9303a4)
+![image](https://github.com/Kopczuch/Movie-Rating-Platform/assets/55816369/389c165e-33fb-405d-a462-58cf294a2f68)
 
 ## Movie page consits of:
 - Movie details (title, year, director, genres, description)
@@ -43,21 +42,21 @@ Platform for viewing, rating, commenting and searching movies created using Djan
 ![image](https://github.com/Kopczuch/Movie-Rating-Platform/assets/55816369/c59d1df8-416f-463c-8bc9-e988336a25bd)
 
 ### Edit movie page:
-![image](https://github.com/Kopczuch/Movie-Rating-Platform/assets/55816369/5b7e12b0-0b0b-4242-bf02-a75e32b90578)
-![image](https://github.com/Kopczuch/Movie-Rating-Platform/assets/55816369/e12f3496-319c-4234-aae3-988eafb3855a)
+![image](https://github.com/Kopczuch/Movie-Rating-Platform/assets/55816369/e037e5dd-0727-45e7-a108-66ddacc511e7)
+![image](https://github.com/Kopczuch/Movie-Rating-Platform/assets/55816369/72bf120e-dcf5-44e0-90c7-d950891b7f8f)
 
 ### Add image to the movie form:
-![image](https://github.com/Kopczuch/Movie-Rating-Platform/assets/55816369/d412557e-55f1-46a9-9f42-ada4340310cf)
+![image](https://github.com/Kopczuch/Movie-Rating-Platform/assets/55816369/ed09416e-1086-42ad-b9c1-36bce9094ca3)
 
-Front image boolean attribute tells app that this image is supposed to be first on the carousel
+Front image boolean attribute tells app that this image is supposed to be first on the carousel.
 
 ### Add rating page:
 ![image](https://github.com/Kopczuch/Movie-Rating-Platform/assets/55816369/81846a72-269d-4c18-a381-84dd2dc0e4b2)
 
-## View Embedded videos page:
-![image](https://github.com/Kopczuch/Movie-Rating-Platform/assets/55816369/e015fd3e-965c-4912-bd57-8c53afc18b28)
+## View embedded videos page:
+![image](https://github.com/Kopczuch/Movie-Rating-Platform/assets/55816369/2e7b2611-8200-41e3-b44e-281bf4f4f28d)
 
 ### Embedded video details page:
-![image](https://github.com/Kopczuch/Movie-Rating-Platform/assets/55816369/43f502fc-f96c-473a-9938-d97228134460)
+![image](https://github.com/Kopczuch/Movie-Rating-Platform/assets/55816369/acaea877-6a31-41d4-bf93-c35ccaf6e93a)
 
 
