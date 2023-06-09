@@ -6,9 +6,9 @@
  * Name of the platform
  * Logged in username
  * User button for viewing external content consisting of:
-  * Log out/log in functions
-  * Viewing movies rated by logged in user
-  * In case of adming user: function for adding a new movie.
+  - Log out/log in functions
+  - Viewing movies rated by logged in user
+  - In case of adming user: function for adding a new movie.
 
  ![image](https://github.com/Kopczuch/Movie-Rating-Platform/assets/55816369/add820a0-df61-4431-8a97-42eb8995e89b)
  
