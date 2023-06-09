@@ -1,5 +1,6 @@
 # Movie Rating Platform
 Platform for viewing, rating, commenting and searching movies created using Django framework. Work on the app was divided into several assignments for the laboratory classes of the Advanced Internet Applications subject at Poznan University of Technology.
+Movie data was provided in json files by the course instructor and added to the postgresql database via python scripts (load_{name}.py)
 
 ## Navbar consists of:
 - Three buttons: home, search and one for viewing embedded videos
