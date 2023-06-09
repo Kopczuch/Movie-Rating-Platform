@@ -2,10 +2,10 @@
  Platform for viewing, rating, commenting and searching movies created using Django framework. Work on the app was divided into several assignments for the laboratory classes of the Advanced Internet Applications subject.
  
  ## Navbar consists of:
- * Three buttons: home, search and one for viewing embedded videos
- * Name of the platform
- * Logged in username
- * User button for viewing external content consisting of:
+ - Three buttons: home, search and one for viewing embedded videos
+ - Name of the platform
+ - Logged in username
+ - User button for viewing external content consisting of:
   - Log out/log in functions
   - Viewing movies rated by logged in user
   - In case of adming user: function for adding a new movie.
