@@ -54,5 +54,10 @@ Front image boolean attribute tells app that this image is supposed to be first 
 ### Add rating page:
 ![image](https://github.com/Kopczuch/Movie-Rating-Platform/assets/55816369/81846a72-269d-4c18-a381-84dd2dc0e4b2)
 
+## View Embedded videos page:
+![image](https://github.com/Kopczuch/Movie-Rating-Platform/assets/55816369/e015fd3e-965c-4912-bd57-8c53afc18b28)
+
+### Embedded video details page:
+![image](https://github.com/Kopczuch/Movie-Rating-Platform/assets/55816369/43f502fc-f96c-473a-9938-d97228134460)
 
 
