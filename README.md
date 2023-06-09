@@ -15,7 +15,7 @@ Platform for viewing, rating, commenting and searching movies created using Djan
 ## Main Page consists of three parts:
 - Popular lately card - app searches and displayes movies with ratings with highest IDs that have the value greater or equal to 4.
 - About us card - currently filled with lorem.
-- Recommended movies - app searches for movies with similar genres or same director to the movie that logged in user rated 4 or higher.
+- Recommended movies - app searches for movies with similar genres or same director to the random movie that logged in user rated 4 or higher.
 
 ![image](https://github.com/Kopczuch/Movie-Rating-Platform/assets/55816369/ce7f7d1e-48b1-4968-b5ca-f7469a28919e)
 
